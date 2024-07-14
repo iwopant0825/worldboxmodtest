@@ -1,0 +1,8 @@
+{
+  "name": "CollectionMod",
+  "author": "Dej#0594",
+  "version": "0.6.10",
+  "description": "This mod is a collection of features that came from my past mods",
+  "targetGameBuild": 550,
+  "iconPath": "icon.png"
+}
